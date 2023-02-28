@@ -5,9 +5,9 @@ Maximize your score in the Atari 2600 game Pong. In this environment, the observ
 
 ### Installation
 
-```
-pip install gym\[atari\]
-pip install 'gym[atari]'
+```bash
+$ pip install gym\[atari\]
+$ pip install 'gym[atari]'
 ```
 
 ### Arguments
@@ -18,7 +18,7 @@ gym.make('PongDeterministic-v4')
 
 ### Instructions
 * Follow the instructions in [`PongDeterministic-PPO.ipynb`](https://github.com/bmaxdk/OpenAI-Gym-PongDeterministic-v4-PPO/blob/main/PongDeterministic-PPO.ipynb) to train and run the agent!
-```
-git clone https://github.com/bmaxdk/OpenAI-Gym-PongDeterministic-v4-PPO
-cd OpenAI-Gym-PongDeterministic-v4-PPO
+```bash
+$ git clone https://github.com/bmaxdk/OpenAI-Gym-PongDeterministic-v4-PPO
+$ cd OpenAI-Gym-PongDeterministic-v4-PPO
 ```
